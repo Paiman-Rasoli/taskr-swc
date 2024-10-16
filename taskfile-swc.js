@@ -4,10 +4,10 @@
 // taskr babel plugin with Babel 7 support
 // https://github.com/lukeed/taskr/pull/305
 
-const path = require('path')
-const transform = require('@swc/core').transform
+import * as path from 'path'
+import { transform } from '@swc/core'
 
-module.exports = function (task) {
+export default function (task) {
   task.plugin(
     'swc',
     {},
