@@ -2,7 +2,6 @@
   "name": "taskr-swc",
   "version": "0.0.2",
   "license": "MIT",
-  "author" : "Paiman Rasoli",
   "keywords" : ["taskr-swc" , "swc task"],
   "scripts": {
     "prettier-fix": "prettier --write ."
@@ -14,5 +13,13 @@
   "devDependencies": {
     "@swc/core": "^1.2.138",
     "prettier": "^2.5.1"
+  },
+  "author": {
+    "name": "Paiman-Rasoli",
+    "email": "paimanrasoli789@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Paiman-Rasoli/taskr-swc"
   }
 }
