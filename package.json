@@ -1,8 +1,11 @@
 {
-  "name": "taskr-swc",
+  "name": "taskr-swc-alt",
   "version": "0.0.2",
   "license": "MIT",
-  "keywords" : ["taskr-swc" , "swc task"],
+  "keywords": [
+    "taskr-swc",
+    "swc task"
+  ],
   "scripts": {
     "prettier-fix": "prettier --write ."
   },
@@ -20,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Paiman-Rasoli/taskr-swc"
+    "url": "git://github.com/Paiman-Rasoli/taskr-swc.git"
   }
 }
