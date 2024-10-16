@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "license": "MIT",
   "author" : "Paiman Rasoli",
+  "keywords" : ["taskr-swc" , "swc task"],
   "scripts": {
     "prettier-fix": "prettier --write ."
   },
