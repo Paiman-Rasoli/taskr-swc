@@ -16,9 +16,9 @@
 To install the package, add it to your project using npm or yarn:
 
 ```bash
-npm install taskr-swc
+npm install taskr-swc-alt
 # or
-yarn add taskr-swc
+yarn add taskr-swc-alt
 ```
 
 ### Usage
